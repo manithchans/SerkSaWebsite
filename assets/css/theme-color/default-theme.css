@@ -4,13 +4,13 @@ Template Design By MarkUps.
 Author URI : http://www.markups.io/
 ========================================*/
 .scrollToTop {
-  background-color: #01bafd;
-  border: 2px solid #01bafd;
+  background-color: #e96830;
+  border: 2px solid #e96830;
 }
 
 .mu-read-more-btn:hover, .mu-read-more-btn:focus {
-  background-color: #01bafd;
-  border-color: #01bafd;
+  background-color: #e96830;
+  border-color: #e96830;
 }
 
 .mu-post-btn:hover, .mu-post-btn:focus {
